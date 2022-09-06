@@ -1,0 +1,7 @@
+﻿type,layers,gamename,startdate,enddate,parenthivedb,parentdbname,parenttablename,parentcolumnname,orihivedb,oridbname,oritablename,oricolumnname,hivedb,dbname,tablename,columnname,logstartdate,logenddate,dtbeforeday,dtafterday,logfilename,log,sql,memo,memo2
+all,1,bnb,2019-12-01,,,,,,all,CASchool,majorcode,,extract,CASchool,majorcode,,,,,,,,,尚未確定(0M),
+all,1,bnb,2019-12-01,,,,,,all,CASchool,schoolcode,,extract,CASchool,schoolcode,,,,,,,,,尚未確定(0M),
+all,1,bnb,2019-12-01,,,,,,all,CASchool,schoolcode_,,extract,CASchool,schoolcode_,,,,,,,,,尚未確定(0M),
+all,1,bnb,2019-12-01,,,,,,all,CASchool,tblschool,,extract,CASchool,tblschool,,,,,,,,,尚未確定(0M),
+all,1,bnb,2019-12-01,,,,,,all,CASchool,tblschool_20050603,,extract,CASchool,tblschool_20050603,,,,,,,,,尚未確定(0M),
+all,1,bnb,2019-12-01,,,,,,all,CASchool,univmajorlist,,extract,CASchool,univmajorlist,,,,,,,,,尚未確定(0M),

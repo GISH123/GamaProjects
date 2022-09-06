@@ -1,0 +1,15 @@
+﻿﻿TABLE_CATALOG,TABLE_SCHEMA,TABLE_NAME,TABLE_TYPE
+20200807_RPGInventory,dbo,dtproperties,BASE TABLE
+20200807_RPGInventory,dbo,FxTranx,BASE TABLE
+20200807_RPGInventory,dbo,FxRPGInventoryStatLog,BASE TABLE
+20200807_RPGInventory,dbo,FxRPGInventoryStat_backup2,BASE TABLE
+20200807_RPGInventory,dbo,FxRPGInventoryStat_backup3,BASE TABLE
+20200807_RPGInventory,dbo,restore_fxrpginventorystat,BASE TABLE
+20200807_RPGInventory,dbo,FxTranx_Old,BASE TABLE
+20200807_RPGInventory,dbo,FxRPGInventoryStatLog_Old,BASE TABLE
+20200807_RPGInventory,dbo,FxRPGPreInventory0210,BASE TABLE
+20200807_RPGInventory,dbo,FxRPGUserInventory0224,BASE TABLE
+20200807_RPGInventory,dbo,FxRPGDecoSlotLayer,BASE TABLE
+20200807_RPGInventory,dbo,FxRPGInventoryStat,BASE TABLE
+20200807_RPGInventory,dbo,FxRPGPreInventory,BASE TABLE
+20200807_RPGInventory,dbo,FxRPGUserInventory,BASE TABLE

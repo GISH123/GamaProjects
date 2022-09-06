@@ -1,0 +1,9 @@
+﻿type,layers,gamename,startdate,enddate,parenthivedb,parentdbname,parenttablename,parentcolumnname,orihivedb,oridbname,oritablename,oricolumnname,hivedb,dbname,tablename,columnname,logstartdate,logenddate,dtbeforeday,dtafterday,logfilename,log,sql,memo,memo2
+all,1,cso,2019-12-01,,,,,,all,nx_messenger00,tblcatefriendmap,,extract,nx_messenger00,tblcatefriendmap,,,,,,,,,尚未確定(0M),
+all,1,cso,2019-12-01,,,,,,all,nx_messenger00,tblcategoryinfo2,,extract,nx_messenger00,tblcategoryinfo2,,,,,,,,,尚未確定(0M),
+all,1,cso,2019-12-01,,,,,,all,nx_messenger00,w_tblvirtualfriendinfo,,extract,nx_messenger00,w_tblvirtualfriendinfo,,,,,,,,,尚未確定(0M),
+grammar,1,cso,2019-12-01,,extract,cso,character,nickname,all,nx_messenger00,tblvirtualuserinfo,strnickname,extract,nx_messenger00,tblvirtualuserinfo,,,,,,,,,尚未確定(大於100M),
+grammar,2,cso,2019-12-01,,extract,nx,messenger00_tblvirtualuserinfo,oidownercode,all,nx_messenger00,tblrealfriendinfo,oidownercode,extract,nx_messenger00,tblrealfriendinfo,,,,,,,,,尚未確定(大於1G),
+grammar,2,cso,2019-12-01,,extract,nx,messenger00_tblvirtualuserinfo,oidownercode,all,nx_messenger00,tblrealuserinfo,oidcode,extract,nx_messenger00,tblrealuserinfo,,,,,,,,,尚未確定(大於100M),
+grammar,2,cso,2019-12-01,,extract,nx,messenger00_tblvirtualuserinfo,oidownercode,all,nx_messenger00,tblrequestinfo,oidownercode,extract,nx_messenger00,tblrequestinfo,,,,,,,,,尚未確定(大於10G),
+grammar,2,cso,2019-12-01,,extract,nx,messenger00_tblvirtualuserinfo,oidownercode,all,nx_messenger00,tblvirtualfriendinfo,oidownercode,extract,nx_messenger00,tblvirtualfriendinfo,,,,,,,,,尚未確定(大於10G),

@@ -1,0 +1,17 @@
+origin_table,tablenumber,origin_col,func,conditions,then_value,else_value,new_name,is_new,description
+gtwpd.modelextract_modelextract,,commondata_1,groupby,,,,commondata_1,,sid
+gtwpd.modelextract_modelextract,,commondata_2,groupby,,,,commondata_2,,aid
+gtwpd.modelextract_modelextract,,commondata_3,groupby,,,,commondata_3,,cid
+gtwpd.modelextract_modelextract,,commondata_4,groupby,,,,commondata_4,,cname
+gtwpd.modelextract_modelextract,,commondata_5,common,,,,commondata_5,,
+gtwpd.modelextract_modelextract,,commondata_6,common,,,,commondata_6,,
+gtwpd.modelextract_modelextract,,commondata_7,common,,,,commondata_7,,
+gtwpd.modelextract_modelextract,,NULL,common,,,,commondata_8,,
+gtwpd.modelextract_modelextract,,"SUBSTR(dt,1,6)",groupby,,,,commondata_9,T,month
+gtwpd.modelextract_modelextract,,NULL,common,,,,commondata_10,,
+gtwpd.modelextract_modelextract,,NULL,common,,,,commondata_11,,
+gtwpd.modelextract_modelextract,,NULL,common,,,,commondata_12,,
+gtwpd.modelextract_modelextract,,NULL,common,,,,commondata_13,,
+gtwpd.modelextract_modelextract,,NULL,common,,,,commondata_14,,
+gtwpd.modelextract_modelextract,,NULL,common,,,,commondata_15,,
+gtwpd.modelextract_modelextract,16508,uniquestr_1,SUM,,1,NULL,UniqueFloat_001,,auction count(sell)

@@ -1,0 +1,5 @@
+﻿schemaname,tablename,rowcounts,totalspacemb,usedspacemb,unusedspacemb
+dbo,BnbEventGameRecord,1638,0,0,0
+dbo,FxChannelTooltip,10,0,0,0
+dbo,FxSchoolZzang,0,0,0,0
+dbo,FxZzang,0,0,0,0

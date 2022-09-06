@@ -1,0 +1,15 @@
+﻿.idea
+*.pyc
+*/env
+others/IP_MAP/csv/*
+others/IP_MAP/upload/*
+env
+*/temp/*.py
+temp/*
+*/*/*/temp/*
+sql/maple/tempreport
+sql/unittest
+unittest
+# */*09_Run*.py
+others/maple_tables/upload
+*/temp

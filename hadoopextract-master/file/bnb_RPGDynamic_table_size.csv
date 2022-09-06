@@ -1,0 +1,5 @@
+﻿﻿schemaname,tablename,rowcounts,totalspacemb,usedspacemb,unusedspacemb
+dbo,FxRPGRecord,0,0,0,0
+dbo,FxRPGDynamic,1241548,102,96,5
+dbo,FxRPGUserMapRank,8411356,547,541,5
+dbo,FxRPGQuestLog,13615705,1341,1337,4

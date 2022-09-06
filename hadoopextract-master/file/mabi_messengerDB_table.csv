@@ -1,0 +1,20 @@
+﻿TABLE_CATALOG,TABLE_SCHEMA,TABLE_NAME,TABLE_TYPE
+messengerDB_20200818,dbo,mergeNewGameID,BASE TABLE
+messengerDB_20200818,dbo,mergeMessengerData,BASE TABLE
+messengerDB_20200818,dbo,deletedCharacterList,BASE TABLE
+messengerDB_20200818,dbo,lastCollectDeletedTime,BASE TABLE
+messengerDB_20200818,dbo,MessengerMove,BASE TABLE
+messengerDB_20200818,dbo,dtproperties,BASE TABLE
+messengerDB_20200818,dbo,TMP_GLOBALNAME_FOR_DEL,BASE TABLE
+messengerDB_20200818,dbo,TMP_USERID_FOR_DEL,BASE TABLE
+messengerDB_20200818,dbo,tmpRelation_20200326,BASE TABLE
+messengerDB_20200818,dbo,tmpRelationGroup_20200326,BASE TABLE
+messengerDB_20200818,dbo,User,BASE TABLE
+messengerDB_20200818,dbo,Relation,BASE TABLE
+messengerDB_20200818,dbo,tmpUser_20200420,BASE TABLE
+messengerDB_20200818,dbo,RelationGroup,BASE TABLE
+messengerDB_20200818,dbo,tmpuserid_del_20200420,BASE TABLE
+messengerDB_20200818,dbo,tmpRelation_UserID_20200420,BASE TABLE
+messengerDB_20200818,dbo,tmpRelation_FriendID_20200420,BASE TABLE
+messengerDB_20200818,dbo,tmpRelationGroup_20200420,BASE TABLE
+messengerDB_20200818,dbo,mergeNewGameID_ALL,BASE TABLE

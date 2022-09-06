@@ -1,0 +1,5 @@
+﻿type,layers,gamename,startdate,enddate,parenthivedb,parentdbname,parenttablename,parentcolumnname,orihivedb,oridbname,oritablename,oricolumnname,hivedb,dbname,tablename,columnname,logstartdate,logenddate,dtbeforeday,dtafterday,logfilename,log,sql,memo,memo2
+all,1,lineage,2019-12-01,,,,,,all,purchaseagentdb,grade,,extract,purchaseagentdb,grade,,,,,,,,,尚未確定(大於1M),
+all,1,lineage,2019-12-01,,,,,,all,purchaseagentdb,itemidtoitemname,,extract,purchaseagentdb,itemidtoitemname,,,,,,,,,尚未確定(0M),
+log,1,lineage,2019-12-01,,,,,,all,purchaseagentdb,purchase,,extract,purchaseagentdb,purchase,,purchasedate,purchasedate,0,1,,,,尚未確定(大於1G),
+log,1,lineage,2019-12-01,,,,,,all,purchaseagentdb,purchase_calculatetovip,,extract,purchaseagentdb,purchase_calculatetovip,,purchasedate,purchasedate,0,1,,,,尚未確定(大於1M),

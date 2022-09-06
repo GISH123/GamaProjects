@@ -1,0 +1,14 @@
+﻿﻿schemaname,tablename,rowcounts,totalspacemb,usedspacemb,unusedspacemb
+dbo,FxRPGInventoryStatLog,0,0,0,0
+dbo,FxRPGInventoryStatLog_Old,0,0,0,0
+dbo,FxRPGPreInventory0210,3060,0,0,0
+dbo,FxTranx,0,0,0,0
+dbo,FxTranx_Old,0,0,0,0
+dbo,FxRPGInventoryStat_backup3,21249,1,1,0
+dbo,FxRPGInventoryStat_backup2,21236,2,1,0
+dbo,restore_fxrpginventorystat,21249,3,3,0
+dbo,FxRPGDecoSlotLayer,712279,82,76,6
+dbo,FxRPGPreInventory,494683,112,105,7
+dbo,FxRPGUserInventory0224,5988999,384,384,0
+dbo,FxRPGUserInventory,14954330,2852,2842,9
+dbo,FxRPGInventoryStat,21408360,4254,4245,8

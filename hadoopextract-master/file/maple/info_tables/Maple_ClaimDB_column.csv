@@ -1,0 +1,10 @@
+TABLE_CATALOG,TABLE_SCHEMA,TABLE_NAME,COLUMN_NAME,ORDINAL_POSITION,COLUMN_DEFAULT,IS_NULLABLE,DATA_TYPE,CHARACTER_MAXIMUM_LENGTH,CHARACTER_OCTET_LENGTH,NUMERIC_PRECISION,NUMERIC_PRECISION_RADIX,NUMERIC_SCALE,DATETIME_PRECISION,CHARACTER_SET_CATALOG,CHARACTER_SET_SCHEMA,CHARACTER_SET_NAME,COLLATION_CATALOG,COLLATION_SCHEMA,COLLATION_NAME,DOMAIN_CATALOG,DOMAIN_SCHEMA,DOMAIN_NAME
+ClaimDB,dbo,ItemMovePath,DateTime,1,,NO,datetime,,,,,,3,,,,,,,,,
+ClaimDB,dbo,ItemMovePath,GameWorldID,2,,NO,tinyint,,,3,10,0,,,,,,,,,,
+ClaimDB,dbo,ItemMovePath,ItemSN,3,,NO,bigint,,,19,10,0,,,,,,,,,,
+ClaimDB,dbo,ItemMovePath,ItemID,4,,NO,int,,,10,10,0,,,,,,,,,,
+ClaimDB,dbo,ItemMovePath,Type,5,,NO,tinyint,,,3,10,0,,,,,,,,,,
+ClaimDB,dbo,ItemMovePath,From,6,,NO,int,,,10,10,0,,,,,,,,,,
+ClaimDB,dbo,ItemMovePath,To,7,,NO,int,,,10,10,0,,,,,,,,,,
+ClaimDB,dbo,ItemMovePath,Through,8,,NO,tinyint,,,3,10,0,,,,,,,,,,
+ClaimDB,dbo,ItemMovePath,FieldID,9,,YES,int,,,10,10,0,,,,,,,,,,

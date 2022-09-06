@@ -1,0 +1,36 @@
+﻿﻿TABLE_CATALOG,TABLE_SCHEMA,TABLE_NAME,TABLE_TYPE
+20200807_CARankey,dbo,Rank_IDListToConvert,BASE TABLE
+20200807_CARankey,dbo,SchoolCode,BASE TABLE
+20200807_CARankey,dbo,Sys_Config,BASE TABLE
+20200807_CARankey,dbo,Sys_ExceptID,BASE TABLE
+20200807_CARankey,dbo,Sys_ExceptSchool,BASE TABLE
+20200807_CARankey,dbo,Sys_LevelMap,BASE TABLE
+20200807_CARankey,dbo,Sys_RankDate,BASE TABLE
+20200807_CARankey,dbo,Sys_SchoolCode,BASE TABLE
+20200807_CARankey,dbo,TTT,BASE TABLE
+20200807_CARankey,dbo,UserAccount,BASE TABLE
+20200807_CARankey,dbo,CA_MRank,VIEW
+20200807_CARankey,dbo,CA_MRank_GameType,VIEW
+20200807_CARankey,dbo,CA_MRank_InSchool,VIEW
+20200807_CARankey,dbo,CA_MRank_Ladder,VIEW
+20200807_CARankey,dbo,CA_MRank_School,VIEW
+20200807_CARankey,dbo,CA_MRank_Theme,VIEW
+20200807_CARankey,dbo,CA_Rank_School2,VIEW
+20200807_CARankey,dbo,CA_WRank,VIEW
+20200807_CARankey,dbo,CA_WRank_GameType,VIEW
+20200807_CARankey,dbo,CA_wRank_InSchool,VIEW
+20200807_CARankey,dbo,CA_WRank_Ladder,VIEW
+20200807_CARankey,dbo,CA_WRank_School,VIEW
+20200807_CARankey,dbo,CA_WRank_Theme,VIEW
+20200807_CARankey,dbo,dtproperties,BASE TABLE
+20200807_CARankey,dbo,CARankGameType_Old,BASE TABLE
+20200807_CARankey,dbo,CARankTheme_Old,BASE TABLE
+20200807_CARankey,dbo,CA_Rank,BASE TABLE
+20200807_CARankey,dbo,CA_Rank_GameType,BASE TABLE
+20200807_CARankey,dbo,CA_Rank_InSchool,BASE TABLE
+20200807_CARankey,dbo,CA_Rank_Ladder,BASE TABLE
+20200807_CARankey,dbo,CA_Rank_School,BASE TABLE
+20200807_CARankey,dbo,CA_Rank_Theme,BASE TABLE
+20200807_CARankey,dbo,ExceptID,BASE TABLE
+20200807_CARankey,dbo,FxUserDynamic,BASE TABLE
+20200807_CARankey,dbo,LevelMap,BASE TABLE

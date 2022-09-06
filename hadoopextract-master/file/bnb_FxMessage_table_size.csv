@@ -1,0 +1,5 @@
+﻿schemaname,tablename,rowcounts,totalspacemb,usedspacemb,unusedspacemb
+dbo,FxMessage,22,0,0,0
+dbo,FxMessage_,0,0,0,0
+dbo,FxScheduledMessage,0,0,0,0
+dbo,WebNotice,0,0,0,0

@@ -1,0 +1,11 @@
+﻿type,layers,gamename,startdate,enddate,parenthivedb,parentdbname,parenttablename,parentcolumnname,orihivedb,oridbname,oritablename,oricolumnname,hivedb,dbname,tablename,columnname,logstartdate,logenddate,dtbeforeday,dtafterday,logfilename,log,sql,memo,memo2
+all,1,bnb,2019-12-01,,,,,,all,UserEditLog,caadminpagelog,,extract,UserEditLog,caadminpagelog,,,,,,,,,尚未確定(小於500K),
+all,1,bnb,2019-12-01,,,,,,all,UserEditLog,cajoblog,,extract,UserEditLog,cajoblog,,,,,,,,,尚未確定(小於500K),
+all,1,bnb,2019-12-01,,,,,,all,UserEditLog,cajobmemo,,extract,UserEditLog,cajobmemo,,,,,,,,,尚未確定(0M),
+all,1,bnb,2019-12-01,,,,,,all,UserEditLog,camemo_gameuser,,extract,UserEditLog,camemo_gameuser,,,,,,,,,尚未確定(小於500K),
+all,1,bnb,2019-12-01,,,,,,all,UserEditLog,caspecialidlist,,extract,UserEditLog,caspecialidlist,,,,,,,,,尚未確定(小於500K),
+all,1,bnb,2019-12-01,,,,,,all,UserEditLog,causermemo,,extract,UserEditLog,causermemo,,,,,,,,,尚未確定(小於500K),
+all,1,bnb,2019-12-01,,,,,,all,UserEditLog,cawebadmin,,extract,UserEditLog,cawebadmin,,,,,,,,,尚未確定(小於500K),
+all,1,bnb,2019-12-01,,,,,,all,UserEditLog,cawebadmingrp,,extract,UserEditLog,cawebadmingrp,,,,,,,,,尚未確定(小於500K),
+all,1,bnb,2019-12-01,,,,,,all,UserEditLog,cawebadminid,,extract,UserEditLog,cawebadminid,,,,,,,,,尚未確定(小於500K),
+all,1,bnb,2019-12-01,,,,,,all,UserEditLog,minuslucciuser,,extract,UserEditLog,minuslucciuser,,,,,,,,,尚未確定(小於500K),

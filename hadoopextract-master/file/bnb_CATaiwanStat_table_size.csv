@@ -1,0 +1,6 @@
+﻿﻿schemaname,tablename,rowcounts,totalspacemb,usedspacemb,unusedspacemb
+dbo,bnb_ccu,720,0,0,0
+dbo,bnb_ccu_month,13,0,0,0
+dbo,bnb_ccu_week,7,0,0,0
+dbo,user_stat_day,517,0,0,0
+dbo,user_stat,148581,4,4,0

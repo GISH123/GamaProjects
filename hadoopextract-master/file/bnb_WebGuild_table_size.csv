@@ -1,0 +1,10 @@
+﻿schemaname,tablename,rowcounts,totalspacemb,usedspacemb,unusedspacemb
+dbo,Delete_tblGroup,1,0,0,0
+dbo,Delete_tblGroupUser,2,0,0,0
+dbo,FxGuildDeleted,12789,0,0,0
+dbo,tblGroup_Search_EventNum_Rank,12800,0,0,0
+dbo,tblGroup_Search_EXP_Rank,12800,0,0,0
+dbo,tblGroupPost_Search,2833,1,0,0
+dbo,tblGroupEventData_Temp,141212,6,6,0
+dbo,tblGroup_Search,4142,6,6,0
+dbo,tblGroupUser_Search,30282,8,8,0

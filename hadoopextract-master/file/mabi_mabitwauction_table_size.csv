@@ -1,0 +1,10 @@
+﻿schemaname,tablename,rowcounts,totalspacemb,usedspacemb,unusedspacemb
+dbo,tmpAuctionItemLarge_History,5325,1,1,0
+dbo,AuctionItemtranlog_ref,25362,2,1,0
+dbo,AuctionItemHuge_History,9638,3,2,0
+dbo,AuctionItemtranlog_monthly,741790,30,29,0
+dbo,AuctionItemtranlog_weekly,1133009,46,45,0
+dbo,AuctionItemtranlog_daily,1661934,67,66,0
+dbo,AuctionItemtranlog,2979099,302,302,0
+dbo,AuctionItemSmall_History,3671599,552,551,0
+dbo,AuctionItemLarge_History,4652795,1568,1567,0

@@ -1,0 +1,25 @@
+select
+	AA.createtime                   -- 模型的創立步驟
+	, AA.deletetime                 -- 模型的覆蓋步驟
+	, AA.modelversionid             -- 模型的唯一值(因為會有版本號一致但內容不同的狀況，所以用唯一值識別)
+	, AA.modelversion               -- 模型版本號碼
+	, AA.modelversionfullcode       -- 模型執行步驟(RPM)號碼
+	, AA.runstep as buildstep       -- 模型預設的執行步驟
+	, BB.createtime as runstarttime  -- 本次的開始執行時間
+	, BB.modifytime as runendtime   -- 本次的結束執行時間
+	, BB.runstep as runstep         -- 本次執行的步驟
+	, BB.parameterjson              -- 本次執行參數
+	, BB.resultjson                 -- 本次執行結果
+	, BB.state                      -- RUN 代表沒跑完，FINISH 代表已跑完
+	, ((AA.inputvaluesjson::json)->'preprocess'->'makedate'->0) as datatime
+	,(( BB.resultjson::json)->'usemodel'->'Accuracy') as accuracy
+from modelmanagement.modelversion AA
+left join modelmanagement.modelrecord BB on 1 = 1
+	and AA.modelversionid = BB.modelversion
+where 1 = 1
+	and AA.modelversion = 'V0_0_2'
+	--and AA.deletetime is null
+	and AA.project = 'P01BasicExample'
+order by
+	AA.createtime asc
+	, BB.createtime asc

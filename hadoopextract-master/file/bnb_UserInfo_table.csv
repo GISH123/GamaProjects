@@ -1,0 +1,31 @@
+﻿﻿TABLE_CATALOG,TABLE_SCHEMA,TABLE_NAME,TABLE_TYPE
+20200807_UserInfo01,dbo,AccountExp01,VIEW
+20200807_UserInfo01,dbo,FxUserCAMissionNormalData,BASE TABLE
+20200807_UserInfo01,dbo,FxUserCAMissionDailyData,BASE TABLE
+20200807_UserInfo01,dbo,FxUserAccount,BASE TABLE
+20200807_UserInfo01,dbo,Temp_Userid,BASE TABLE
+20200807_UserInfo01,dbo,FxSpeakerLog,BASE TABLE
+20200807_UserInfo01,dbo,tmp_userinfodata_080403,BASE TABLE
+20200807_UserInfo01,dbo,Log_Password,BASE TABLE
+20200807_UserInfo01,dbo,badnickname,BASE TABLE
+20200807_UserInfo01,dbo,LoveCountry01,BASE TABLE
+20200807_UserInfo01,dbo,homerun01,BASE TABLE
+20200807_UserInfo01,dbo,ErrID,VIEW
+20200807_UserInfo01,dbo,Pin01,BASE TABLE
+20200807_UserInfo01,dbo,Pingu01,BASE TABLE
+20200807_UserInfo01,dbo,fall01,BASE TABLE
+20200807_UserInfo01,dbo,FallData01,BASE TABLE
+20200807_UserInfo01,dbo,mission,BASE TABLE
+20200807_UserInfo01,dbo,任務加碼,BASE TABLE
+20200807_UserInfo01,dbo,FxRegulation,BASE TABLE
+20200807_UserInfo01,dbo,temp_Account,BASE TABLE
+20200807_UserInfo01,dbo,LoveFlower01,BASE TABLE
+20200807_UserInfo01,dbo,GLoveFlower01,BASE TABLE
+20200807_UserInfo01,dbo,FxUserConn,BASE TABLE
+20200807_UserInfo01,dbo,FxBlacklist,BASE TABLE
+20200807_UserInfo01,dbo,FxCouple,BASE TABLE
+20200807_UserInfo01,dbo,dtproperties,BASE TABLE
+20200807_UserInfo01,dbo,FxKartEvent,BASE TABLE
+20200807_UserInfo01,dbo,FxSchoolZzang,BASE TABLE
+20200807_UserInfo01,dbo,FxUserBlocking,BASE TABLE
+20200807_UserInfo01,dbo,FxUserComments,BASE TABLE

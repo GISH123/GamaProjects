@@ -1,0 +1,50 @@
+﻿﻿TABLE_CATALOG,TABLE_SCHEMA,TABLE_NAME,TABLE_TYPE
+20200807_TranxLog,dbo,dtproperties,BASE TABLE
+20200807_TranxLog,dbo,tranxtmpdelete,BASE TABLE
+20200807_TranxLog,dbo,tranxtmpbuy,BASE TABLE
+20200807_TranxLog,dbo,FxTranxOld_20190718,BASE TABLE
+20200807_TranxLog,dbo,Userid_Count,BASE TABLE
+20200807_TranxLog,dbo,Account,BASE TABLE
+20200807_TranxLog,dbo,vw_TmpLottery11,VIEW
+20200807_TranxLog,dbo,FxTranxOld,BASE TABLE
+20200807_TranxLog,dbo,tmp_Hammer,BASE TABLE
+20200807_TranxLog,dbo,vw_TmpHammer,VIEW
+20200807_TranxLog,dbo,tmp_fxTranxOld_bak,BASE TABLE
+20200807_TranxLog,dbo,tmp_FxTranxOld,BASE TABLE
+20200807_TranxLog,dbo,fxstock,BASE TABLE
+20200807_TranxLog,dbo,TranxOld_000,VIEW
+20200807_TranxLog,dbo,TranxHistory_000,VIEW
+20200807_TranxLog,dbo,TranxOld_002,VIEW
+20200807_TranxLog,dbo,TranxOld_003,VIEW
+20200807_TranxLog,dbo,TranxOld_010,VIEW
+20200807_TranxLog,dbo,TranxOld_013,VIEW
+20200807_TranxLog,dbo,TranxOld_200,VIEW
+20200807_TranxLog,dbo,TranxOld_201,VIEW
+20200807_TranxLog,dbo,TranxOld_202,VIEW
+20200807_TranxLog,dbo,TranxOld_203,VIEW
+20200807_TranxLog,dbo,TranxOld_204,VIEW
+20200807_TranxLog,dbo,temp_sound,BASE TABLE
+20200807_TranxLog,dbo,TranxOld_210,VIEW
+20200807_TranxLog,dbo,TranxOld_214,VIEW
+20200807_TranxLog,dbo,TranxOld_220,VIEW
+20200807_TranxLog,dbo,TranxHistory_002,VIEW
+20200807_TranxLog,dbo,TranxHistory_003,VIEW
+20200807_TranxLog,dbo,TranxHistory_010,VIEW
+20200807_TranxLog,dbo,TranxHistory_013,VIEW
+20200807_TranxLog,dbo,TranxHistory_200,VIEW
+20200807_TranxLog,dbo,TranxHistory_201,VIEW
+20200807_TranxLog,dbo,TranxHistory_202,VIEW
+20200807_TranxLog,dbo,TranxHistory_203,VIEW
+20200807_TranxLog,dbo,TranxHistory_204,VIEW
+20200807_TranxLog,dbo,TranxHistory_210,VIEW
+20200807_TranxLog,dbo,TranxHistory_214,VIEW
+20200807_TranxLog,dbo,TranxHistory_220,VIEW
+20200807_TranxLog,dbo,jerry_202003011_tmp_msg,BASE TABLE
+20200807_TranxLog,dbo,TranxHistory,VIEW
+20200807_TranxLog,dbo,TranxOld,VIEW
+20200807_TranxLog,dbo,tmp_FxTranxOld2,BASE TABLE
+20200807_TranxLog,dbo,FxRPGInventoryStatLogOld,BASE TABLE
+20200807_TranxLog,dbo,tmp_FxRPGInventoryStatLogOld,BASE TABLE
+20200807_TranxLog,dbo,BnBItem,BASE TABLE
+20200807_TranxLog,dbo,TT,VIEW
+20200807_TranxLog,dbo,tmp1,BASE TABLE

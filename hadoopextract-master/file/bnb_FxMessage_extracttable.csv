@@ -1,0 +1,5 @@
+﻿type,layers,gamename,startdate,enddate,parenthivedb,parentdbname,parenttablename,parentcolumnname,orihivedb,oridbname,oritablename,oricolumnname,hivedb,dbname,tablename,columnname,logstartdate,logenddate,dtbeforeday,dtafterday,logfilename,log,sql,memo,memo2
+all,1,bnb,2019-12-01,,,,,,all,FxMessage,fxmessage,,extract,FxMessage,fxmessage,,,,,,,,,尚未確定(小於500K),
+all,1,bnb,2019-12-01,,,,,,all,FxMessage,fxmessage_,,extract,FxMessage,fxmessage_,,,,,,,,,尚未確定(0M),
+all,1,bnb,2019-12-01,,,,,,all,FxMessage,fxscheduledmessage,,extract,FxMessage,fxscheduledmessage,,,,,,,,,尚未確定(0M),
+all,1,bnb,2019-12-01,,,,,,all,FxMessage,webnotice,,extract,FxMessage,webnotice,,,,,,,,,尚未確定(0M),

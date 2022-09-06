@@ -1,0 +1,39 @@
+P02AdvancedExample
+    本範例最主要是要了解怎麼在 modeling 撰寫相關模型方法
+
+    modeling/RawData_[:專案名].py      RawData方法撰寫區
+
+        MakeRawDataCtrl                 使用Ctrl CSV產生一個SQL執行並自動匯入到Hive
+
+        MakeRawDataOrderSQLInsert       執行一個SQL自動匯入到Hive
+
+        MakeRawDataFileInsert           回傳一個DF，會將DF匯入HDFS，並在Hive建立Partition
+
+        MakeRawDataFreeFuction          自由Fuction，要自己回塞Hive或HDFS
+
+    modeling/PreProcess_[:專案名].py   PreProcess方法撰寫區
+
+        MakePreProcessCtrl              使用Ctrl CSV產生一個SQL執行並自動匯入到Hive
+
+        MakePreProcessOrderSQLInsert    執行一個SQL自動匯入到Hive
+
+        MakePreProcessFileInsert        回傳一個DF，會將DF匯入HDFS，並在Hive建立Partition
+
+        MakePreProcessFreeFuction       自由Fuction，要自己回塞Hive或HDFS
+
+    modeling/UseModel_[:專案名].py     UseModel方法撰寫區
+
+        MakeUseModelOrderSQLInsert      執行三段SQL自動匯入到Hive，三段分別回塞到Step的UseModel、ModelResult、ModelScore
+
+        MakeUseModelFileInsert          回傳二個DF，會將DF匯入HDFS，並在Hive建立Partition，第一個DF會匯入到UseModel、ModelResult，第二個會匯入到ModelScore
+
+        MakeUseModelFreeFuction         自由Fuction，要自己回塞Hive或HDFS
+
+    P43_P02AdvancedExampl_01_MakeBuildModel.py
+
+        build相關Model，詳細說明請參考P01BasicExample
+
+    P43_P02AdvancedExample_02_MakeRunModel.py
+
+        run相關Model，詳細說明請參考P01BasicExample，另外本範例有教學怎麼樣來跑多天
+

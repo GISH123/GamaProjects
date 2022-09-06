@@ -1,0 +1,3 @@
+new_col,origin_col,negtive,do_log,scale,centering,description
+UniqueFloat_001,UniqueFloat_001,,,,,trade_count
+UniqueFloat_002,UniqueFloat_002,,,,,sell_count

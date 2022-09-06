@@ -1,0 +1,38 @@
+﻿﻿TABLE_CATALOG,TABLE_SCHEMA,TABLE_NAME,TABLE_TYPE
+20200807_CAMarket,dbo,MarketSellItems,BASE TABLE
+20200807_CAMarket,dbo,MarketSoldItemNotify,BASE TABLE
+20200807_CAMarket,dbo,MarketUser,BASE TABLE
+20200807_CAMarket,dbo,MarketUserLucciLog,BASE TABLE
+20200807_CAMarket,dbo,FxCAPoint,BASE TABLE
+20200807_CAMarket,dbo,FxMarketSellMagicBooks,BASE TABLE
+20200807_CAMarket,dbo,FxMarketSellMagicBooks20131114,BASE TABLE
+20200807_CAMarket,dbo,FxCAPoint20131128,BASE TABLE
+20200807_CAMarket,dbo,FxMarketSellMagicBooks20131226,BASE TABLE
+20200807_CAMarket,dbo,FxCAPoint20140109,BASE TABLE
+20200807_CAMarket,dbo,MarketExcludeItem,BASE TABLE
+20200807_CAMarket,dbo,vMarketErrorLog2,VIEW
+20200807_CAMarket,dbo,vMarketErrorLog,VIEW
+20200807_CAMarket,dbo,vMarketItemsInvalid,VIEW
+20200807_CAMarket,dbo,vMarketItemsValid,VIEW
+20200807_CAMarket,dbo,vwValidItemList,VIEW
+20200807_CAMarket,dbo,vMarketBuyItemLog3,VIEW
+20200807_CAMarket,dbo,vMarketSellItems,VIEW
+20200807_CAMarket,dbo,FxMagicBookMarketBuyLog,BASE TABLE
+20200807_CAMarket,dbo,FxMagicBoxUseLog,BASE TABLE
+20200807_CAMarket,dbo,vMarketBuyItemLog2,VIEW
+20200807_CAMarket,dbo,FxUserMagicBooks,BASE TABLE
+20200807_CAMarket,dbo,FxLimitedMagicBoxItem,BASE TABLE
+20200807_CAMarket,dbo,FxMagicBookStock,BASE TABLE
+20200807_CAMarket,dbo,FxMagicBoxItem,BASE TABLE
+20200807_CAMarket,dbo,FxMagicBoxExcludeItem,BASE TABLE
+20200807_CAMarket,dbo,FxCAPointBackUp,BASE TABLE
+20200807_CAMarket,dbo,MarketSellAllItems,BASE TABLE
+20200807_CAMarket,dbo,catmp,BASE TABLE
+20200807_CAMarket,dbo,vMarketBuyItemLog,VIEW
+20200807_CAMarket,dbo,dtproperties,BASE TABLE
+20200807_CAMarket,dbo,FxItem,BASE TABLE
+20200807_CAMarket,dbo,MarketBuyItemLog,BASE TABLE
+20200807_CAMarket,dbo,MarketErrorCode,BASE TABLE
+20200807_CAMarket,dbo,MarketErrorLog,BASE TABLE
+20200807_CAMarket,dbo,MarketItem,BASE TABLE
+20200807_CAMarket,dbo,MarketSellItemStatus,BASE TABLE

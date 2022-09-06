@@ -1,0 +1,3 @@
+﻿﻿schemaname,tablename,rowcounts,totalspacemb,usedspacemb,unusedspacemb
+dbo,FxServerErrorLog,10,0,0,0
+dbo,FxServerErrorLog_20180423,80671603,12970,12970,0

@@ -1,0 +1,10 @@
+﻿schemaname,tablename,rowcounts,totalspacemb,usedspacemb,unusedspacemb
+dbo,BlackList,0,0,0,0
+dbo,PermNoteBox,0,0,0,0
+dbo,tblTemp,0,0,0,0
+dbo,tblTemp2,0,0,0,0
+dbo,TempNoteBox,0,0,0,0
+dbo,RequestInfo,2437050,735,463,272
+dbo,CategoryList,8221808,844,563,281
+dbo,UserInfo,8221805,4093,2629,1464
+dbo,FriendList,44573945,17291,10328,6963

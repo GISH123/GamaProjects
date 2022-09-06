@@ -1,0 +1,97 @@
+﻿﻿TABLE_CATALOG,TABLE_SCHEMA,TABLE_NAME,TABLE_TYPE
+20200807_CAItem,dbo,FxRpgItemStat,BASE TABLE
+20200807_CAItem,dbo,FxPresentList,BASE TABLE
+20200807_CAItem,dbo,FxQCouponMap,BASE TABLE
+20200807_CAItem,dbo,FxRPGItemUpgrade,BASE TABLE
+20200807_CAItem,dbo,FxStockNew,BASE TABLE
+20200807_CAItem,dbo,FxCategories2,BASE TABLE
+20200807_CAItem,dbo,FxStockReal,BASE TABLE
+20200807_CAItem,dbo,FxRPGItemUpgradeMaterial,BASE TABLE
+20200807_CAItem,dbo,FxString,BASE TABLE
+20200807_CAItem,dbo,FxRPGResellItem,BASE TABLE
+20200807_CAItem,dbo,ShopOrderLog,BASE TABLE
+20200807_CAItem,dbo,jerry_20200311_tmp_config,BASE TABLE
+20200807_CAItem,dbo,fxitembackup,BASE TABLE
+20200807_CAItem,dbo,jerry_20200311_tmp,BASE TABLE
+20200807_CAItem,dbo,fxpackagemap,BASE TABLE
+20200807_CAItem,dbo,FxGachaponItemList,BASE TABLE
+20200807_CAItem,dbo,tmp_FxGachaponItemList_20071213,BASE TABLE
+20200807_CAItem,dbo,FxBasketInfo,BASE TABLE
+20200807_CAItem,dbo,FxCoupleAnniversaryPresent,BASE TABLE
+20200807_CAItem,dbo,FxStockChangeLog,BASE TABLE
+20200807_CAItem,dbo,概率表,BASE TABLE
+20200807_CAItem,dbo,FxRewardItem,BASE TABLE
+20200807_CAItem,dbo,FxItem,BASE TABLE
+20200807_CAItem,dbo,FxBattleRewardItem,BASE TABLE
+20200807_CAItem,dbo,fxstock,BASE TABLE
+20200807_CAItem,dbo,聖誕樂爆卡概率表,BASE TABLE
+20200807_CAItem,dbo,FxItemHistory,BASE TABLE
+20200807_CAItem,dbo,BnBPackageView,VIEW
+20200807_CAItem,dbo,FxBattleRewardProb,BASE TABLE
+20200807_CAItem,dbo,BnBItemView,VIEW
+20200807_CAItem,dbo,BnBStockView,VIEW
+20200807_CAItem,dbo,FxBattlePoint,BASE TABLE
+20200807_CAItem,dbo,TestView,VIEW
+20200807_CAItem,dbo,WebItemView,VIEW
+20200807_CAItem,dbo,WebStockView,VIEW
+20200807_CAItem,dbo,FxOfflinePrizeList,BASE TABLE
+20200807_CAItem,dbo,FxItemPak,VIEW
+20200807_CAItem,dbo,FxOfflinePrizeWinnerList,BASE TABLE
+20200807_CAItem,dbo,__FxItem_2018_07_01,BASE TABLE
+20200807_CAItem,dbo,__FxStock_2018_07_01,BASE TABLE
+20200807_CAItem,dbo,FxRewardItemRenew,BASE TABLE
+20200807_CAItem,dbo,FxLimitedMagicBoxItem,BASE TABLE
+20200807_CAItem,dbo,SpecialTournamentReward,BASE TABLE
+20200807_CAItem,dbo,FxBonusMapRewardItem,BASE TABLE
+20200807_CAItem,dbo,FxShopCategory,BASE TABLE
+20200807_CAItem,dbo,FxMagicBookStock,BASE TABLE
+20200807_CAItem,dbo,FxShopItemInfo,BASE TABLE
+20200807_CAItem,dbo,FxMagicBoxItem,BASE TABLE
+20200807_CAItem,dbo,FxTimeGiftItem,BASE TABLE
+20200807_CAItem,dbo,SpecialTournamentWinnerRecord,BASE TABLE
+20200807_CAItem,dbo,FxBundleGachapon,BASE TABLE
+20200807_CAItem,dbo,dtproperties,BASE TABLE
+20200807_CAItem,dbo,BAK_Fxstock,BASE TABLE
+20200807_CAItem,dbo,FxRewardLevelTable,BASE TABLE
+20200807_CAItem,dbo,FxMMProductionList,BASE TABLE
+20200807_CAItem,dbo,FxBundleGachaponWinnerList,BASE TABLE
+20200807_CAItem,dbo,FxMMProductionReward,BASE TABLE
+20200807_CAItem,dbo,FxMMProductionStuffList,BASE TABLE
+20200807_CAItem,dbo,FxNoTimeStopItem,BASE TABLE
+20200807_CAItem,dbo,FxMMResolutionExceptList,BASE TABLE
+20200807_CAItem,dbo,FxMMResolutionMenu,BASE TABLE
+20200807_CAItem,dbo,FxMMResolutionReward,BASE TABLE
+20200807_CAItem,dbo,FxGachaponItemDisplay,BASE TABLE
+20200807_CAItem,dbo,FxMMResolutionRewardProb,BASE TABLE
+20200807_CAItem,dbo,FxRentItem,BASE TABLE
+20200807_CAItem,dbo,FxMMSynthesisExceptList,BASE TABLE
+20200807_CAItem,dbo,FxMMSynthesisReward,BASE TABLE
+20200807_CAItem,dbo,fxstock_20123015,BASE TABLE
+20200807_CAItem,dbo,FxMMSynthesisRewardProb,BASE TABLE
+20200807_CAItem,dbo,FxGachaponBonusGaugeItem,BASE TABLE
+20200807_CAItem,dbo,FxSetItem,BASE TABLE
+20200807_CAItem,dbo,FxStatOverrideItem,BASE TABLE
+20200807_CAItem,dbo,FxDailyMissionStock,BASE TABLE
+20200807_CAItem,dbo,FxElecDisplayColorInfo,BASE TABLE
+20200807_CAItem,dbo,FxForceDeleteItem,BASE TABLE
+20200807_CAItem,dbo,FxLimitedItem,BASE TABLE
+20200807_CAItem,dbo,FxLimitedItemWinnerList,BASE TABLE
+20200807_CAItem,dbo,FxLobbySquareDisplayItem,BASE TABLE
+20200807_CAItem,dbo,fxFxpackagemap0110,BASE TABLE
+20200807_CAItem,dbo,FxDTTGachaponItem,BASE TABLE
+20200807_CAItem,dbo,FxTLShopLimitedItem,BASE TABLE
+20200807_CAItem,dbo,FxGCouponAddAmount,BASE TABLE
+20200807_CAItem,dbo,FxGachaponItemListSet,BASE TABLE
+20200807_CAItem,dbo,FxDTTPointRewardItem,BASE TABLE
+20200807_CAItem,dbo,FxTLShopStock,BASE TABLE
+20200807_CAItem,dbo,FxDTTRemainLimitedItem,BASE TABLE
+20200807_CAItem,dbo,CAItem_Desc,BASE TABLE
+20200807_CAItem,dbo,FxBonusMap,BASE TABLE
+20200807_CAItem,dbo,FxCategories,BASE TABLE
+20200807_CAItem,dbo,FxCouponMap,BASE TABLE
+20200807_CAItem,dbo,FxExItemMap,BASE TABLE
+20200807_CAItem,dbo,FxItemExtraAttr,BASE TABLE
+20200807_CAItem,dbo,FxRPGStatOverrideItem,BASE TABLE
+20200807_CAItem,dbo,FxItemExtraAttrmMap,BASE TABLE
+20200807_CAItem,dbo,FxItemNew,BASE TABLE
+20200807_CAItem,dbo,FxPremiumList,BASE TABLE

@@ -1,0 +1,9 @@
+﻿schemaname,tablename,rowcounts,totalspacemb,usedspacemb,unusedspacemb
+dbo,tblCateFriendMap,0,0,0,0
+dbo,tblCategoryInfo2,0,0,0,0
+dbo,W_tblVirtualFriendInfo,0,0,0,0
+dbo,tblRealUserInfo,6254102,575,573,2
+dbo,tblVirtualUserInfo,6182421,690,688,1
+dbo,tblRealFriendInfo,78169701,8637,8630,6
+dbo,tblVirtualFriendInfo,78169684,10645,10636,9
+dbo,tblRequestInfo,371425126,56793,56731,61

@@ -1,0 +1,7 @@
+﻿type,layers,gamename,startdate,enddate,parenthivedb,parentdbname,parenttablename,parentcolumnname,orihivedb,oridbname,oritablename,oricolumnname,hivedb,dbname,tablename,columnname,logstartdate,logenddate,dtbeforeday,dtafterday,logfilename,log,sql,memo,memo2
+all,1,mabi,2019-12-01,,,,,,all,messengerDB,deletedcharacterlist,,extract,messengerDB,deletedcharacterlist,,,,,,,,,尚未確定(0M),
+all,1,mabi,2019-12-01,,,,,,all,messengerDB,lastcollectdeletedtime,,extract,messengerDB,lastcollectdeletedtime,,,,,,,,,尚未確定(0M),
+all,1,mabi,2019-12-01,,,,,,all,messengerDB,messengermove,,extract,messengerDB,messengermove,,,,,,,,,尚未確定(0M),
+all,1,mabi,2019-12-01,,,,,,all,messengerDB,relationgroup,,extract,messengerDB,relationgroup,,,,,,,,,群組ID?(大於100M),
+grammar,1,mabi,2019-12-01,,extract,init,onlinetime,characterid,all,messengerDB,user,characterid,extract,messengerDB,user,,,,,,,,,角色Userid對應表(大於100M),
+grammar,2,mabi,2019-12-01,,extract,messengerdb,user,userid,all,messengerDB,relation,userid,extract,messengerDB,relation,,,,,,,,,好友名單(大於1G),

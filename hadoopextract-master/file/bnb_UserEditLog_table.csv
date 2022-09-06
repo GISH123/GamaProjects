@@ -1,0 +1,18 @@
+﻿﻿TABLE_CATALOG,TABLE_SCHEMA,TABLE_NAME,TABLE_TYPE
+20200807_UserEditLog,dbo,dtproperties,BASE TABLE
+20200807_UserEditLog,dbo,CAWebAdminGrp,BASE TABLE
+20200807_UserEditLog,dbo,CAWebAdminID,BASE TABLE
+20200807_UserEditLog,dbo,CAMemo_GameUser,BASE TABLE
+20200807_UserEditLog,dbo,CAAdminPageLog,BASE TABLE
+20200807_UserEditLog,dbo,tmp_20110317,BASE TABLE
+20200807_UserEditLog,dbo,PlusLucci,VIEW
+20200807_UserEditLog,dbo,MinusLucci,VIEW
+20200807_UserEditLog,dbo,MinusLucciUser,BASE TABLE
+20200807_UserEditLog,dbo,tmp_DeleteItemUser,BASE TABLE
+20200807_UserEditLog,dbo,tmp_20110504,BASE TABLE
+20200807_UserEditLog,dbo,CAJobLog,BASE TABLE
+20200807_UserEditLog,dbo,CAJobLogTest,BASE TABLE
+20200807_UserEditLog,dbo,CAJobMemo,BASE TABLE
+20200807_UserEditLog,dbo,CASpecialIDList,BASE TABLE
+20200807_UserEditLog,dbo,CAUserMemo,BASE TABLE
+20200807_UserEditLog,dbo,CAWebAdmin,BASE TABLE

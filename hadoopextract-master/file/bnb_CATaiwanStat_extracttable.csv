@@ -1,0 +1,6 @@
+﻿type,layers,gamename,startdate,enddate,parenthivedb,parentdbname,parenttablename,parentcolumnname,orihivedb,oridbname,oritablename,oricolumnname,hivedb,dbname,tablename,columnname,logstartdate,logenddate,dtbeforeday,dtafterday,logfilename,log,sql,memo,memo2
+all,1,bnb,2019-12-01,,,,,,all,CATaiwanStat,bnb_ccu,,extract,CATaiwanStat,bnb_ccu,,,,,,,,,尚未確定(小於500K),
+all,1,bnb,2019-12-01,,,,,,all,CATaiwanStat,bnb_ccu_month,,extract,CATaiwanStat,bnb_ccu_month,,,,,,,,,尚未確定(小於500K),
+all,1,bnb,2019-12-01,,,,,,all,CATaiwanStat,bnb_ccu_week,,extract,CATaiwanStat,bnb_ccu_week,,,,,,,,,尚未確定(小於500K),
+all,1,bnb,2019-12-01,,,,,,all,CATaiwanStat,user_stat,,extract,CATaiwanStat,user_stat,,,,,,,,,尚未確定(大於1M),
+all,1,bnb,2019-12-01,,,,,,all,CATaiwanStat,user_stat_day,,extract,CATaiwanStat,user_stat_day,,,,,,,,,尚未確定(小於500K),

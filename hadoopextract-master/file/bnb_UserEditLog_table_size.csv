@@ -1,0 +1,15 @@
+﻿schemaname,tablename,rowcounts,totalspacemb,usedspacemb,unusedspacemb
+dbo,CAAdminPageLog,111,0,0,0
+dbo,CAJobLog,7265,0,0,0
+dbo,CAJobLogTest,0,0,0,0
+dbo,CAJobMemo,0,0,0,0
+dbo,CAMemo_GameUser,9,0,0,0
+dbo,CASpecialIDList,17,0,0,0
+dbo,CAUserMemo,301,0,0,0
+dbo,CAWebAdmin,3,0,0,0
+dbo,CAWebAdminGrp,3,0,0,0
+dbo,CAWebAdminID,5,0,0,0
+dbo,MinusLucciUser,173,0,0,0
+dbo,tmp_20110504,1235,0,0,0
+dbo,tmp_DeleteItemUser,61031,1,1,0
+dbo,tmp_20110317,74063,8,6,2

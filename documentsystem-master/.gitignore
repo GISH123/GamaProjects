@@ -1,0 +1,6 @@
+﻿.idea
+env
+doc/*/temp
+file/[!c]*/doc/*.xlsx
+file/[!c]*/twb/*.twb
+*.pyc

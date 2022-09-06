@@ -1,0 +1,6 @@
+﻿﻿TABLE_CATALOG,TABLE_SCHEMA,TABLE_NAME,TABLE_TYPE
+20200807_FxMessage,dbo,dtproperties,BASE TABLE
+20200807_FxMessage,dbo,FxMessage,BASE TABLE
+20200807_FxMessage,dbo,FxMessage_,BASE TABLE
+20200807_FxMessage,dbo,FxScheduledMessage,BASE TABLE
+20200807_FxMessage,dbo,WebNotice,BASE TABLE

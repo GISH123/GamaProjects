@@ -1,0 +1,2 @@
+tableName,path,sqlName
+gtwpd.maple_middle_login_account,/user/GTW_PD/DB/Maple/middle/Process/login_account,21_login_account.sql

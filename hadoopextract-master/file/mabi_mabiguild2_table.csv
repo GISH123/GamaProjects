@@ -1,0 +1,32 @@
+﻿TABLE_CATALOG,TABLE_SCHEMA,TABLE_NAME,TABLE_TYPE
+mabi_guild2_20200818,dbo,awayGuildmember,BASE TABLE
+mabi_guild2_20200818,dbo,guild,BASE TABLE
+mabi_guild2_20200818,dbo,bak_guild_20110805,BASE TABLE
+mabi_guild2_20200818,dbo,bak_guild_20110823,BASE TABLE
+mabi_guild2_20200818,dbo,bak_guild_201210,BASE TABLE
+mabi_guild2_20200818,dbo,guild_deleted,BASE TABLE
+mabi_guild2_20200818,dbo,bak_guild_20120920,BASE TABLE
+mabi_guild2_20200818,dbo,guild_menu,BASE TABLE
+mabi_guild2_20200818,dbo,guild_stone,BASE TABLE
+mabi_guild2_20200818,dbo,G,BASE TABLE
+mabi_guild2_20200818,dbo,guild_20140626,BASE TABLE
+mabi_guild2_20200818,dbo,guild_20140709,BASE TABLE
+mabi_guild2_20200818,dbo,guild_text,BASE TABLE
+mabi_guild2_20200818,dbo,guild_20150806,BASE TABLE
+mabi_guild2_20200818,dbo,guildmember,BASE TABLE
+mabi_guild2_20200818,dbo,guildstatus_20160804,BASE TABLE
+mabi_guild2_20200818,dbo,GuildBudgetChk,BASE TABLE
+mabi_guild2_20200818,dbo,guildidpool,BASE TABLE
+mabi_guild2_20200818,dbo,guildstatus_20160818,BASE TABLE
+mabi_guild2_20200818,dbo,GuildBudgetCanCle,BASE TABLE
+mabi_guild2_20200818,dbo,GuildBudget,BASE TABLE
+mabi_guild2_20200818,dbo,vw_GuildsTypeAmount,VIEW
+mabi_guild2_20200818,dbo,vw_guildsNew,VIEW
+mabi_guild2_20200818,dbo,mergeNewGameID_ALL,BASE TABLE
+mabi_guild2_20200818,dbo,tmpNewGuildID,BASE TABLE
+mabi_guild2_20200818,dbo,Guild_pollQest,BASE TABLE
+mabi_guild2_20200818,dbo,Guild_PollCheck,BASE TABLE
+mabi_guild2_20200818,dbo,Guild_Pollitem,BASE TABLE
+mabi_guild2_20200818,dbo,dtproperties,BASE TABLE
+mabi_guild2_20200818,dbo,guild_robe,BASE TABLE
+mabi_guild2_20200818,dbo,vw_GameGuildList,VIEW

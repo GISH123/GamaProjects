@@ -1,0 +1,10 @@
+﻿TABLE_CATALOG,TABLE_SCHEMA,TABLE_NAME,TABLE_TYPE
+mabitw1_auction_20200818,dbo,AuctionItemtranlog,BASE TABLE
+mabitw1_auction_20200818,dbo,AuctionItemtranlog_daily,BASE TABLE
+mabitw1_auction_20200818,dbo,AuctionItemtranlog_weekly,BASE TABLE
+mabitw1_auction_20200818,dbo,AuctionItemtranlog_monthly,BASE TABLE
+mabitw1_auction_20200818,dbo,AuctionItemtranlog_ref,BASE TABLE
+mabitw1_auction_20200818,dbo,tmpAuctionItemLarge_History,BASE TABLE
+mabitw1_auction_20200818,dbo,AuctionItemLarge_History,BASE TABLE
+mabitw1_auction_20200818,dbo,AuctionItemSmall_History,BASE TABLE
+mabitw1_auction_20200818,dbo,AuctionItemHuge_History,BASE TABLE

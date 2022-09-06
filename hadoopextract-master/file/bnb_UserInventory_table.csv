@@ -1,0 +1,69 @@
+﻿﻿TABLE_CATALOG,TABLE_SCHEMA,TABLE_NAME,TABLE_TYPE
+20200807_UserInventory00,dbo,GM_Inventory_Deleted,BASE TABLE
+20200807_UserInventory00,dbo,tmp_flower_00,BASE TABLE
+20200807_UserInventory00,dbo,FxCAJJangRewardLog,BASE TABLE
+20200807_UserInventory00,dbo,FxUserDailyMission,BASE TABLE
+20200807_UserInventory00,dbo,FxUserDailyMissionLog,BASE TABLE
+20200807_UserInventory00,dbo,FxCAItemCollectionMission,BASE TABLE
+20200807_UserInventory00,dbo,FxCAItemCollectionRewardLog,BASE TABLE
+20200807_UserInventory00,dbo,VW_item,VIEW
+20200807_UserInventory00,dbo,VW_item2,VIEW
+20200807_UserInventory00,dbo,VW_item3,VIEW
+20200807_UserInventory00,dbo,FxCAItemCollectionUserItem,BASE TABLE
+20200807_UserInventory00,dbo,Userid_Count,BASE TABLE
+20200807_UserInventory00,dbo,tmp_20080410,BASE TABLE
+20200807_UserInventory00,dbo,FxMMProductionLog,BASE TABLE
+20200807_UserInventory00,dbo,FxMMResolutionLog,BASE TABLE
+20200807_UserInventory00,dbo,FxMMSynthesisLog,BASE TABLE
+20200807_UserInventory00,dbo,LoveCountry000,BASE TABLE
+20200807_UserInventory00,dbo,Log_Password,BASE TABLE
+20200807_UserInventory00,dbo,FxTranx,BASE TABLE
+20200807_UserInventory00,dbo,Lovecountry,BASE TABLE
+20200807_UserInventory00,dbo,cookiecomplete00,BASE TABLE
+20200807_UserInventory00,dbo,Tranx,VIEW
+20200807_UserInventory00,dbo,Tranx_000,VIEW
+20200807_UserInventory00,dbo,Tranx_002,VIEW
+20200807_UserInventory00,dbo,Tranx_003,VIEW
+20200807_UserInventory00,dbo,FxPreInventory1202,BASE TABLE
+20200807_UserInventory00,dbo,Tranx_010,VIEW
+20200807_UserInventory00,dbo,Tranx_013,VIEW
+20200807_UserInventory00,dbo,Tranx_200,VIEW
+20200807_UserInventory00,dbo,Tranx_201,VIEW
+20200807_UserInventory00,dbo,Tranx_202,VIEW
+20200807_UserInventory00,dbo,Tranx_203,VIEW
+20200807_UserInventory00,dbo,FxTranx_20090702,BASE TABLE
+20200807_UserInventory00,dbo,Tranx_204,VIEW
+20200807_UserInventory00,dbo,temp_201805,BASE TABLE
+20200807_UserInventory00,dbo,fxuserinventory_bak_2013_0205,BASE TABLE
+20200807_UserInventory00,dbo,Tranx_210,VIEW
+20200807_UserInventory00,dbo,Tranx_214,VIEW
+20200807_UserInventory00,dbo,FxTLShopBuyLog,BASE TABLE
+20200807_UserInventory00,dbo,Tranx_220,VIEW
+20200807_UserInventory00,dbo,FxUserDIYBomb,BASE TABLE
+20200807_UserInventory00,dbo,FxUpdatedNoticeSn,BASE TABLE
+20200807_UserInventory00,dbo,_TempFxUserList_160310,BASE TABLE
+20200807_UserInventory00,dbo,dtproperties,BASE TABLE
+20200807_UserInventory00,dbo,FxTranx_20180101_2,BASE TABLE
+20200807_UserInventory00,dbo,FxTranx_Old_20180101_2,BASE TABLE
+20200807_UserInventory00,dbo,FxUserInventory00_200904016,BASE TABLE
+20200807_UserInventory00,dbo,FxDTTLog,BASE TABLE
+20200807_UserInventory00,dbo,FxPurchaseRecord,BASE TABLE
+20200807_UserInventory00,dbo,Sendreward,BASE TABLE
+20200807_UserInventory00,dbo,ChangeShadow00,BASE TABLE
+20200807_UserInventory00,dbo,FxUserPetInfo,BASE TABLE
+20200807_UserInventory00,dbo,FxPreInventory,BASE TABLE
+20200807_UserInventory00,dbo,FxUserInventory,BASE TABLE
+20200807_UserInventory00,dbo,bnbitem,VIEW
+20200807_UserInventory00,dbo,tmp_itemsn,BASE TABLE
+20200807_UserInventory00,dbo,bnbitemview,VIEW
+20200807_UserInventory00,dbo,CountSMS,BASE TABLE
+20200807_UserInventory00,dbo,FxTranx_Old,BASE TABLE
+20200807_UserInventory00,dbo,FxTranxOld_bak,BASE TABLE
+20200807_UserInventory00,dbo,bnbstock,VIEW
+20200807_UserInventory00,dbo,FxCart,BASE TABLE
+20200807_UserInventory00,dbo,bnbstockview,VIEW
+20200807_UserInventory00,dbo,FxEmotionInventory,BASE TABLE
+20200807_UserInventory00,dbo,FxLucciTranx,BASE TABLE
+20200807_UserInventory00,dbo,FxQCouponInventory,BASE TABLE
+20200807_UserInventory00,dbo,FxSMS,BASE TABLE
+20200807_UserInventory00,dbo,FxUserPurchaseAnalysis,BASE TABLE

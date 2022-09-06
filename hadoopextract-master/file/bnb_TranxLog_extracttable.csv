@@ -1,0 +1,4 @@
+﻿type,layers,gamename,startdate,enddate,parenthivedb,parentdbname,parenttablename,parentcolumnname,orihivedb,oridbname,oritablename,oricolumnname,hivedb,dbname,tablename,columnname,logstartdate,logenddate,dtbeforeday,dtafterday,logfilename,log,sql,memo,memo2
+all,1,bnb,2019-12-01,,,,,,all,TranxLog,account,,extract,TranxLog,account,,,,,,,,,尚未確定(小於500K),
+all,1,bnb,2019-12-01,,,,,,all,TranxLog,fxstock,,extract,TranxLog,fxstock,,,,,,,,,尚未確定(小於500K),
+all,1,bnb,2019-12-01,,,,,,all,TranxLog,userid_count,,extract,TranxLog,userid_count,,,,,,,,,尚未確定(小於500K),

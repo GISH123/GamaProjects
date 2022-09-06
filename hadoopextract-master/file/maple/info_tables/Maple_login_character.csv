@@ -1,0 +1,4 @@
+tableName,path,sqlName,worldName
+gtwpd.maple_iplog,/user/GTW_PD/DB/Maple/middle/Process/IPLog,01_iplog_select.sql,gw
+gtwpd.maple_middle_login_record,/user/GTW_PD/DB/Maple/middle/Process/login_record,10_login_record.sql,world
+gtwpd.maple_middle_login_duration_new,/user/GTW_PD/DB/Maple/middle/Process/login_duration_new,11_login_duration.sql,world

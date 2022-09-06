@@ -1,0 +1,10 @@
+﻿TABLE_CATALOG,TABLE_SCHEMA,TABLE_NAME,TABLE_TYPE
+beanfunDB,dbo,AGG_PlayDeposit,BASE TABLE
+beanfunDB,dbo,D_MainAccount_F_Fix,BASE TABLE
+beanfunDB,dbo,D_ServiceAccount_F,BASE TABLE
+beanfunDB,dbo,FK_DepositMethod,BASE TABLE
+beanfunDB,dbo,History_Deposit,BASE TABLE
+beanfunDB,dbo,History_Play,BASE TABLE
+beanfunDB,dbo,Service_Info,BASE TABLE
+beanfunDB,dbo,bfAPP_MainAccount,BASE TABLE
+beanfunDB,dbo,beanfun_TestMainAccount,BASE TABLE

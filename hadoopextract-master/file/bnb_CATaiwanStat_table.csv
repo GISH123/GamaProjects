@@ -1,0 +1,6 @@
+﻿﻿TABLE_CATALOG,TABLE_SCHEMA,TABLE_NAME,TABLE_TYPE
+20200807_CATaiwanStat,dbo,user_stat,BASE TABLE
+20200807_CATaiwanStat,dbo,user_stat_day,BASE TABLE
+20200807_CATaiwanStat,dbo,bnb_ccu,BASE TABLE
+20200807_CATaiwanStat,dbo,bnb_ccu_week,BASE TABLE
+20200807_CATaiwanStat,dbo,bnb_ccu_month,BASE TABLE

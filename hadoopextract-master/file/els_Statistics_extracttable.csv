@@ -1,0 +1,2 @@
+﻿type,layers,gamename,startdate,enddate,parenthivedb,parentdbname,parenttablename,parentcolumnname,orihivedb,oridbname,oritablename,oricolumnname,hivedb,dbname,tablename,columnname,logstartdate,logenddate,dtbeforeday,dtafterday,logfilename,log,sql,memo,memo2
+all,1,els,2019-12-01,,,,,,all,Statistics,lunitconnectlog,,extract,Statistics,lunitconnectlog,,,,,,,,,尚未確定(大於1M),

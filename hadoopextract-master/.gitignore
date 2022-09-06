@@ -1,0 +1,14 @@
+﻿.env
+.idea
+*.pyc
+.init/common_pythonlib_package
+.init/pythonlibrary
+env
+*/Test
+*/Manual
+/file/tdn/file_restore/*.txt
+*/venv
+*/temp/*
+*/tmp/*
+*/old/*
+*/Old/*

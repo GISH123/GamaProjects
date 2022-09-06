@@ -1,0 +1,126 @@
+﻿TABLE_CATALOG,TABLE_SCHEMA,TABLE_NAME,TABLE_TYPE
+DNMembership,dbo,ErrorLogs,BASE TABLE
+DNMembership,dbo,PurchaseOrderDetails,BASE TABLE
+DNMembership,dbo,AccountPeriodicReset,BASE TABLE
+DNMembership,dbo,TableAuditLogs,BASE TABLE
+DNMembership,dbo,SelectedItems,BASE TABLE
+DNMembership,dbo,AccountEffects,BASE TABLE
+DNMembership,dbo,EventConditionForPetal,BASE TABLE
+DNMembership,dbo,VIX_EventScheduleDetailForPetal,VIEW
+DNMembership,dbo,SecondAuthLogs,BASE TABLE
+DNMembership,dbo,AccountLockLogs,BASE TABLE
+DNMembership,dbo,GiftSendScheduleTarget,BASE TABLE
+DNMembership,dbo,Accounts,BASE TABLE
+DNMembership,dbo,Characters_DWC_20140902,BASE TABLE
+DNMembership,dbo,GiftSendScheduleReceive,BASE TABLE
+DNMembership,dbo,BlockedIPExceptions,BASE TABLE
+DNMembership,dbo,CharacterDeleteReviveLogs,BASE TABLE
+DNMembership,dbo,GiftSendSchedule,BASE TABLE
+DNMembership,dbo,BlockedIPs,BASE TABLE
+DNMembership,dbo,ReservedKeys,BASE TABLE
+DNMembership,dbo,PartitionMergeAccounts,BASE TABLE
+DNMembership,dbo,Characters,BASE TABLE
+DNMembership,dbo,LimitedProducts,BASE TABLE
+DNMembership,dbo,DNEventDetails,BASE TABLE
+DNMembership,dbo,CodeKinds,BASE TABLE
+DNMembership,dbo,ForbiddenChatWords,BASE TABLE
+DNMembership,dbo,CharacterNameChangeLogs,BASE TABLE
+DNMembership,dbo,Codes,BASE TABLE
+DNMembership,dbo,DNEvents,BASE TABLE
+DNMembership,dbo,SeaFishingEntryAccounts,BASE TABLE
+DNMembership,dbo,AccountLoginLogs0,BASE TABLE
+DNMembership,dbo,GeoIPs,BASE TABLE
+DNMembership,dbo,DNEventSchedules,BASE TABLE
+DNMembership,dbo,MobileNotice,BASE TABLE
+DNMembership,dbo,AbleCronicleCharacters,BASE TABLE
+DNMembership,dbo,AccountLoginLogs1,BASE TABLE
+DNMembership,dbo,CharacterStarterItems,BASE TABLE
+DNMembership,dbo,AccountLoginLogs2,BASE TABLE
+DNMembership,dbo,TestAccounts,BASE TABLE
+DNMembership,dbo,CouponInProducts,BASE TABLE
+DNMembership,dbo,_Merge_WorldID_Characters_20191206_bak,BASE TABLE
+DNMembership,dbo,_Merge_WorldID_CharacterSlotCounts_20191206_bak,BASE TABLE
+DNMembership,dbo,MobileAuthenticationLogs0,BASE TABLE
+DNMembership,dbo,_Merge_WorldID_WorldConfig_20191206_bak,BASE TABLE
+DNMembership,dbo,MobileAuthenticationLogs1,BASE TABLE
+DNMembership,dbo,TransferConfirmedAccounts,BASE TABLE
+DNMembership,dbo,MobileAuthenticationLogs2,BASE TABLE
+DNMembership,dbo,Coupons,BASE TABLE
+DNMembership,dbo,ReleasedIPs,BASE TABLE
+DNMembership,dbo,EventPetalForCBTUsers,BASE TABLE
+DNMembership,dbo,EventSeasonForDarkCharacters,BASE TABLE
+DNMembership,dbo,VIX_CharacterCount,VIEW
+DNMembership,dbo,EventScheduleDetailForPetal,BASE TABLE
+DNMembership,dbo,TemporaryBlock,BASE TABLE
+DNMembership,dbo,WorldConfig,BASE TABLE
+DNMembership,dbo,EventScheduleForPetal,BASE TABLE
+DNMembership,dbo,TemporaryOpenedIPs,BASE TABLE
+DNMembership,dbo,Tally,BASE TABLE
+DNMembership,dbo,EventRewardItems,BASE TABLE
+DNMembership,dbo,EventRewardTargets,BASE TABLE
+DNMembership,dbo,CouponKeys,BASE TABLE
+DNMembership,dbo,ForbiddenCharacterNames,BASE TABLE
+DNMembership,dbo,TransferAccounts,BASE TABLE
+DNMembership,dbo,EventRewardReceivers,BASE TABLE
+DNMembership,dbo,MobileAuthentication,BASE TABLE
+DNMembership,dbo,LeavePreventionConnInfo,BASE TABLE
+DNMembership,dbo,CharacterSlotCounts,BASE TABLE
+DNMembership,dbo,_CharacterSlotCounts_bak_279798,BASE TABLE
+DNMembership,dbo,LeavePreventionLoginTerm,BASE TABLE
+DNMembership,dbo,GuildNames,BASE TABLE
+DNMembership,dbo,VIX_CouponTotals,VIEW
+DNMembership,dbo,CanceledRestraints,BASE TABLE
+DNMembership,dbo,EventPopupConfig,BASE TABLE
+DNMembership,dbo,Restraints,BASE TABLE
+DNMembership,dbo,ReturnJumpingCharacters,BASE TABLE
+DNMembership,dbo,AccountLogoutLogs0,BASE TABLE
+DNMembership,dbo,WarpCharacters,BASE TABLE
+DNMembership,dbo,AccountLogoutLogs1,BASE TABLE
+DNMembership,dbo,AccountLogoutLogs2,BASE TABLE
+DNMembership,dbo,PurchaseOrders,BASE TABLE
+DNMembership,dbo,JumpingCharacters,BASE TABLE
+DNMembership,dbo,DNAuth,BASE TABLE
+DNMembership,dbo,EventRewards,BASE TABLE
+DNMembership,dbo,GMAccountAccessIPs,BASE TABLE
+DNMembership,dbo,SimpleConfigValues,BASE TABLE
+DNMembership,dbo,AccountAuthenticationDelQueue,BASE TABLE
+DNMembership,dbo,SecondAuthLogsChangeTracking,BASE TABLE
+DNMembership,dbo,TWNHK,BASE TABLE
+DNMembership,dbo,MaintenanceFlag,BASE TABLE
+DNMembership,dbo,Introducers,BASE TABLE
+DNMembership,dbo,HeroLevels,BASE TABLE
+DNMembership,dbo,PCRoomIPs,BASE TABLE
+DNMembership,dbo,1,BASE TABLE
+DNMembership,dbo,PetalIncome,BASE TABLE
+DNMembership,dbo,EventShopActivation,BASE TABLE
+DNMembership,dbo,2,BASE TABLE
+DNMembership,dbo,PetalOutgo,BASE TABLE
+DNMembership,dbo,EventShopPackages,BASE TABLE
+DNMembership,dbo,SecondPassphrases,BASE TABLE
+DNMembership,dbo,HeroLevelLogs0,BASE TABLE
+DNMembership,dbo,EventShopPackageItems,BASE TABLE
+DNMembership,dbo,HeroLevelLogs1,BASE TABLE
+DNMembership,dbo,HeroLevelLogs2,BASE TABLE
+DNMembership,dbo,CashIncome,BASE TABLE
+DNMembership,dbo,CUCount,BASE TABLE
+DNMembership,dbo,WebGachaControl,BASE TABLE
+DNMembership,dbo,CashOutgo,BASE TABLE
+DNMembership,dbo,Employees,BASE TABLE
+DNMembership,dbo,VIX_PetalIncome,VIEW
+DNMembership,dbo,VIX_PetalOutgo,VIEW
+DNMembership,dbo,VIX_CashIncomeTotals,VIEW
+DNMembership,dbo,VIX_PetalOutgoTotal,VIEW
+DNMembership,dbo,DeletedCharacters,BASE TABLE
+DNMembership,dbo,VIX_CashOutgoTotals,VIEW
+DNMembership,dbo,ClientIPConnectCounts,BASE TABLE
+DNMembership,dbo,VIPPointLogs,BASE TABLE
+DNMembership,dbo,ReservedCharacterNames,BASE TABLE
+DNMembership,dbo,VIPPoints,BASE TABLE
+DNMembership,dbo,VIX_ClientIPConnectCounts,VIEW
+DNMembership,dbo,DNMarbleEventRewardHistory,BASE TABLE
+DNMembership,dbo,EventRewards_258513,BASE TABLE
+DNMembership,dbo,GDPR,BASE TABLE
+DNMembership,dbo,VIX_GiveFailItems,VIEW
+DNMembership,dbo,BanOfSale,BASE TABLE
+DNMembership,dbo,AccountConnectNoticeQueue,BASE TABLE
+DNMembership,dbo,DatabaseVersion,BASE TABLE

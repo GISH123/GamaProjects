@@ -1,0 +1,15 @@
+﻿schemaname,tablename,rowcounts,totalspacemb,usedspacemb,unusedspacemb
+dbo,Coupon_2019,2020,0,0,0
+dbo,Event_data,209,0,0,0
+dbo,Item_Package,142,0,0,0
+dbo,Item_Package_bak_20151117,112,0,0,0
+dbo,tmp_20080508,100,0,0,0
+dbo,tmp_coupon,15020,0,0,0
+dbo,Coupon_2017,30315,2,2,0
+dbo,Coupon_2018,122975,9,9,0
+dbo,Coupon_2011_0414,219985,16,16,0
+dbo,Coupon_2015,355100,27,26,0
+dbo,Coupon_2013,835597,63,63,0
+dbo,Coupon_2016,905585,68,68,0
+dbo,Coupon_2012,2597472,197,197,0
+dbo,Coupon_2011,2973740,225,225,0

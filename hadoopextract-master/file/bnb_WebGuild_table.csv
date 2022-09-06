@@ -1,0 +1,11 @@
+﻿﻿TABLE_CATALOG,TABLE_SCHEMA,TABLE_NAME,TABLE_TYPE
+20200807_WebGuild,dbo,tblGroupPost_Search,BASE TABLE
+20200807_WebGuild,dbo,tblGroup_Search_EXP_Rank,BASE TABLE
+20200807_WebGuild,dbo,tblGroup_Search_EventNum_Rank,BASE TABLE
+20200807_WebGuild,dbo,tblGroupEventData_Temp,BASE TABLE
+20200807_WebGuild,dbo,FxGuildDeleted,BASE TABLE
+20200807_WebGuild,dbo,Delete_tblGroupUser,BASE TABLE
+20200807_WebGuild,dbo,Delete_tblGroup,BASE TABLE
+20200807_WebGuild,dbo,tblGroupUser_Search,BASE TABLE
+20200807_WebGuild,dbo,dtproperties,BASE TABLE
+20200807_WebGuild,dbo,tblGroup_Search,BASE TABLE

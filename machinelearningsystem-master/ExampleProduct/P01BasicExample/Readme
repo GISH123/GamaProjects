@@ -1,0 +1,34 @@
+P01BasicExample
+
+    本範例最主要是要了解怎麼在 P43_P01BasicExample_01_MakeBuildModel 與 P43_P01BasicExample_02_MakeRunModel 撰寫相關build與run模型方法
+
+    P43_P01BasicExample_01_MakeBuildModel.py
+
+        build相關Model
+
+        makeModeling.main({
+            "runtype": ["buildmodel"]                                       # 只能輸入 buildmodel 或 runmodel , 只會取第一個值
+            , "builduser": ["vicying"]                                      # 只能輸入作者名 , 只會取第一個值
+            , "makedate": ["2022-01-01"]                                    # 只能輸入日期格式為YYYY-MM-DD , 取多個值
+            , "productname": ["ExampleProduct"]                             # 只能輸入產品名 , 只會取第一個值
+            , "project": ["P01BasicExample"]                                # 只能輸入計畫名 , 只會取第一個值
+            , "rawdataversion": ["R1_0_1","R1_0_2"]                         # 只能輸入格式為RX_X_X 、 / 開頭(HDFS檔案) 、 小寫開頭(本地檔案) , 取多個值 , 在 runtype 為 runmodel 不輸入
+            , "preprocessversion": ["P1_0_1"]                               # 只能輸入格式為PX_X_X 、 / 開頭(HDFS檔案) 、 小寫開頭(本地檔案) , 取多個值 , 在 runtype 為 runmodel 不輸入
+            , "usemodelversion": ["M1_0_1"]                                 # 只能輸入格式為M0_0_1 , 取多個值 , 在 runtype 為 runmodel 不輸入
+            , "runstep": ["rawdata", "preprocess", "usemodel"]              # 只能輸入 rawdata 和 preprocess 和 usemodel , 取多個值 , 但不會有以下組合 ["rawdata", "usemodel"] 組合
+        })
+
+    P43_P01BasicExample_02_MakeRunModel.py
+
+        run相關Model
+
+        makeModeling.main({
+            "runtype": ["runmodel"]                                         # 只能輸入 buildmodel 或 runmodel , 只會取第一個值
+            , "builduser": ["vicying"]                                      # 只能輸入作者名 , 只會取第一個值
+            , "makedate": ["2022-01-01"]                                    # 只能輸入日期格式為YYYY-MM-DD , 取多個值
+            , "productname": ["ExampleProduct"]                             # 只能輸入產品名 , 只會取第一個值
+            , "project": ["P01BasicExample"]                                # 只能輸入計畫名 , 只會取第一個值
+            , "modelversion": ["V0_0_2","V0_0_5","V0_0_4"]                  # 只能輸入格式為V0_0_1 , 在 runtype 為 buildmodel 取單一值 , 在 runtype 為 runmodel 取多個值
+        })
+
+

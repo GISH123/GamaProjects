@@ -1,0 +1,10 @@
+﻿schemaname,tablename,rowcounts,totalspacemb,usedspacemb,unusedspacemb
+dbo,_MajorCode,0,0,0,0
+dbo,_SchoolCode,0,0,0,0
+dbo,_UnivMajorList,0,0,0,0
+dbo,MajorCode,0,0,0,0
+dbo,SchoolCode,0,0,0,0
+dbo,SchoolCode_,0,0,0,0
+dbo,tblSchool,0,0,0,0
+dbo,tblSchool_20050603,0,0,0,0
+dbo,UnivMajorList,0,0,0,0

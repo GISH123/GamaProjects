@@ -1,0 +1,12 @@
+﻿type,layers,gamename,startdate,enddate,parenthivedb,parentdbname,parenttablename,parentcolumnname,orihivedb,oridbname,oritablename,oricolumnname,hivedb,dbname,tablename,columnname,logstartdate,logenddate,dtbeforeday,dtafterday,logfilename,log,sql,memo,memo2
+all,1,bnb,2019-12-01,,,,,,all,Coupon,coupon_2011,,extract,Coupon,coupon_2011,,,,,,,,,尚未確定(大於100M),
+all,1,bnb,2019-12-01,,,,,,all,Coupon,coupon_2011_0414,,extract,Coupon,coupon_2011_0414,,,,,,,,,尚未確定(大於10M),
+all,1,bnb,2019-12-01,,,,,,all,Coupon,coupon_2012,,extract,Coupon,coupon_2012,,,,,,,,,尚未確定(大於100M),
+all,1,bnb,2019-12-01,,,,,,all,Coupon,coupon_2013,,extract,Coupon,coupon_2013,,,,,,,,,尚未確定(大於10M),
+all,1,bnb,2019-12-01,,,,,,all,Coupon,coupon_2015,,extract,Coupon,coupon_2015,,,,,,,,,尚未確定(大於10M),
+all,1,bnb,2019-12-01,,,,,,all,Coupon,coupon_2016,,extract,Coupon,coupon_2016,,,,,,,,,尚未確定(大於10M),
+all,1,bnb,2019-12-01,,,,,,all,Coupon,coupon_2017,,extract,Coupon,coupon_2017,,,,,,,,,尚未確定(大於1M),
+all,1,bnb,2019-12-01,,,,,,all,Coupon,coupon_2018,,extract,Coupon,coupon_2018,,,,,,,,,尚未確定(大於1M),
+all,1,bnb,2019-12-01,,,,,,all,Coupon,coupon_2019,,extract,Coupon,coupon_2019,,,,,,,,,尚未確定(小於500K),
+all,1,bnb,2019-12-01,,,,,,all,Coupon,event_data,,extract,Coupon,event_data,,,,,,,,,尚未確定(小於500K),
+all,1,bnb,2019-12-01,,,,,,all,Coupon,item_package,,extract,Coupon,item_package,,,,,,,,,尚未確定(小於500K),

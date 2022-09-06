@@ -1,0 +1,6 @@
+TABLE_CATALOG,TABLE_SCHEMA,TABLE_NAME,TABLE_TYPE
+mabi_log_20200818,mabi,character,BASE TABLE
+mabi_log_20200818,mabi,chat,BASE TABLE
+mabi_log_20200818,mabi,default,BASE TABLE
+mabi_log_20200818,mabi,item,BASE TABLE
+mabi_log_20200818,mabi,gamelog,BASE TABLE

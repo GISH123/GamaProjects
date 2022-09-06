@@ -1,0 +1,10 @@
+﻿type,layers,gamename,startdate,enddate,parenthivedb,parentdbname,parenttablename,parentcolumnname,orihivedb,oridbname,oritablename,oricolumnname,hivedb,dbname,tablename,columnname,logstartdate,logenddate,dtbeforeday,dtafterday,logfilename,log,sql,memo,memo2
+all,1,bf,2019-07-01,,,,,,all,beanfundb,agg_playdeposit,,extract,beanfundb,agg_playdeposit,,,,0,1,,,,每日點數帳號狀態(統計後),
+all,1,bf,2019-07-01,,,,,,all,beanfundb,d_mainaccount_f_fix,,extract,beanfundb,d_mainaccount_f_fix,,,,,,,,,點數帳號,以日記錄新增帳號
+all,1,bf,2019-07-01,,,,,,all,beanfundb,d_serviceaccount_f,,extract,beanfundb,d_serviceaccount_f,,,,,,,,,遊戲帳號,以日記錄新增帳號
+all,1,bf,2019-07-01,,,,,,all,beanfundb,fk_depositmethod,,extract,beanfundb,fk_depositmethod,,,,,,,,,儲值對照表,只更新
+log,1,bf,2019-07-01,,,,,,all,beanfundb,history_deposit,,extract,beanfundb,history_deposit,,deposittime,deposittime,0,1,,,,儲值、消費記錄,log，內容為dt-1的資料
+log,1,bf,2019-07-01,,,,,,all,beanfundb,history_play,,extract,beanfundb,history_play,,logouttime,logouttime,0,2,,,,登入/出記錄,log，內容為dt-2的資料
+all,1,bf,2019-07-01,,,,,,all,beanfundb,service_info,,extract,beanfundb,service_info,,,,,,,,,遊戲對照表,只更新
+all,1,bf,2019-07-01,,,,,,all,beanfundb,bfapp_mainaccount,,extract,beanfundb,bfapp_mainaccount,,,,,,,,,bf!app帳號(星帳),
+all,1,bf,2019-07-01,,,,,,all,beanfundb,beanfun_testmainaccount,,extract,beanfundb,beanfun_testmainaccount,,,,,,,,,測試點數帳號,

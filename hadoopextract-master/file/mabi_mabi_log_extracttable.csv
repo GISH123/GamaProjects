@@ -1,0 +1,6 @@
+﻿type,layers,gamename,startdate,enddate,parenthivedb,parentdbname,parenttablename,parentcolumnname,orihivedb,oridbname,oritablename,oricolumnname,hivedb,dbname,tablename,columnname,logstartdate,logenddate,dtbeforeday,dtafterday,logfilename,log,sql,memo,memo2
+all,1,mabi,2019-12-01,,,,,,all,mabi_log,character,,extract,mabi_log,character,,,,,,,,,角色紀錄log,
+all,1,mabi,2019-12-01,,,,,,all,mabi_log,chat,,extract,mabi_log,chat,,,,,,,,,聊天紀錄log,
+all,1,mabi,2019-12-01,,,,,,all,mabi_log,default,,extract,mabi_log,default,,,,,,,,,尚未確認log,
+all,1,mabi,2019-12-01,,,,,,all,mabi_log,item,,extract,mabi_log,item,,,,,,,,,道具log,
+all,1,mabi,2019-12-01,,,,,,all,mabi_log,gamelog,,extract,mabi_log,gamelog,,,,,,,,,遊戲log,

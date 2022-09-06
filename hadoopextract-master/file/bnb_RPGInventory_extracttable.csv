@@ -1,0 +1,10 @@
+﻿type,layers,gamename,startdate,enddate,parenthivedb,parentdbname,parenttablename,parentcolumnname,orihivedb,oridbname,oritablename,oricolumnname,hivedb,dbname,tablename,columnname,logstartdate,logenddate,dtbeforeday,dtafterday,logfilename,log,sql,memo,memo2
+all,1,bnb,2019-12-01,,,,,,all,RPGInventory,fxrpgdecoslotlayer,,extract,RPGInventory,fxrpgdecoslotlayer,,,,,,,,,尚未確定(大於10M),
+all,1,bnb,2019-12-01,,,,,,all,RPGInventory,fxrpginventorystatlog,,extract,RPGInventory,fxrpginventorystatlog,,,,,,,,,尚未確定(小於500K),
+all,1,bnb,2019-12-01,,,,,,all,RPGInventory,fxrpgpreinventory0210,,extract,RPGInventory,fxrpgpreinventory0210,,,,,,,,,尚未確定(小於500K),
+all,1,bnb,2019-12-01,,,,,,all,RPGInventory,fxtranx,,extract,RPGInventory,fxtranx,,,,,,,,,尚未確定(小於500K),
+all,1,bnb,2019-12-01,,,,,,all,RPGInventory,restore_fxrpginventorystat,,extract,RPGInventory,restore_fxrpginventorystat,,,,,,,,,尚未確定(大於1M),
+grammar,1,bnb,2019-12-01,,extract,init,activeaccount,user_name,all,RPGInventory,fxrpginventorystat,id,extract,RPGInventory,fxrpginventorystat,,,,,,,,,尚未確定(大於1G),
+grammar,1,bnb,2019-12-01,,extract,init,activeaccount,user_name,all,RPGInventory,fxrpgpreinventory,id,extract,RPGInventory,fxrpgpreinventory,,,,,,,,,尚未確定(大於100M),
+grammar,1,bnb,2019-12-01,,extract,init,activeaccount,user_name,all,RPGInventory,fxrpguserinventory,id,extract,RPGInventory,fxrpguserinventory,,,,,,,,,尚未確定(大於1G),
+grammar,1,bnb,2019-12-01,,extract,init,activeaccount,user_name,all,RPGInventory,fxrpguserinventory0224,id,extract,RPGInventory,fxrpguserinventory0224,,,,,,,,,尚未確定(大於100M),

@@ -1,0 +1,10 @@
+﻿.idea
+*/env
+*.pyc
+sql/old
+*/temp
+*/*/xlsx_BUResult/*.xlsx
+package/common/bureport/old
+env
+file/appannie
+/appannie

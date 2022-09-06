@@ -1,0 +1,9 @@
+﻿type,layers,gamename,startdate,enddate,parenthivedb,parentdbname,parenttablename,parentcolumnname,orihivedb,oridbname,oritablename,oricolumnname,hivedb,dbname,tablename,columnname,logstartdate,logenddate,dtbeforeday,dtafterday,logfilename,log,sql,memo,memo2
+log,1,mabi,2019-12-01,,,,,,all,mabitwauction,auctionitemhuge_history,,extract,mabitwauction,auctionitemhuge_history,,update_time,update_time,0,1,,,,道具(大)(大於1M),
+log,1,mabi,2019-12-01,,,,,,all,mabitwauction,auctionitemlarge_history,,extract,mabitwauction,auctionitemlarge_history,,update_time,update_time,0,1,,,,道具(中)(大於1G),
+log,1,mabi,2019-12-01,,,,,,all,mabitwauction,auctionitemsmall_history,,extract,mabitwauction,auctionitemsmall_history,,update_time,update_time,0,1,,,,道具(小)(大於100M),
+log,1,mabi,2019-12-01,,,,,,all,mabitwauction,auctionitemtranlog,,extract,mabitwauction,auctionitemtranlog,,logdate,logdate,0,1,,,,拍賣紀錄(mabinogi_auction更詳細)(大於100M),
+log,1,mabi,2019-12-01,,,,,,all,mabitwauction,auctionitemtranlog_daily,,extract,mabitwauction,auctionitemtranlog_daily,,logdate,logdate,0,1,,,,拍賣紀錄日(mabinogi_auction更詳細)(大於10M),
+log,1,mabi,2019-12-01,,,,,,all,mabitwauction,auctionitemtranlog_monthly,,extract,mabitwauction,auctionitemtranlog_monthly,,logdate,logdate,0,1,,,,拍賣紀錄月(mabinogi_auction更詳細)(大於10M),
+log,1,mabi,2019-12-01,,,,,,all,mabitwauction,auctionitemtranlog_ref,,extract,mabitwauction,auctionitemtranlog_ref,,logdate,logdate,0,1,,,,尚未確定(大於1M),
+log,1,mabi,2019-12-01,,,,,,all,mabitwauction,auctionitemtranlog_weekly,,extract,mabitwauction,auctionitemtranlog_weekly,,logdate,logdate,0,1,,,,拍賣紀錄周(mabinogi_auction更詳細)(大於10M),
